@@ -1,0 +1,10 @@
+C:\Users\BooBo\source\repos\BeamMPconfigGUI\BeamMPconfigGUI\bin\Debug\BeamMPconfigGUI.exe.config
+C:\Users\BooBo\source\repos\BeamMPconfigGUI\BeamMPconfigGUI\bin\Debug\BeamMPconfigGUI.exe
+C:\Users\BooBo\source\repos\BeamMPconfigGUI\BeamMPconfigGUI\bin\Debug\BeamMPconfigGUI.pdb
+C:\Users\BooBo\source\repos\BeamMPconfigGUI\BeamMPconfigGUI\obj\Debug\BeamMPconfigGUI.csprojAssemblyReference.cache
+C:\Users\BooBo\source\repos\BeamMPconfigGUI\BeamMPconfigGUI\obj\Debug\BeamMPconfigGUI.Properties.Resources.resources
+C:\Users\BooBo\source\repos\BeamMPconfigGUI\BeamMPconfigGUI\obj\Debug\BeamMPconfigGUI.csproj.GenerateResource.cache
+C:\Users\BooBo\source\repos\BeamMPconfigGUI\BeamMPconfigGUI\obj\Debug\BeamMPconfigGUI.csproj.CoreCompileInputs.cache
+C:\Users\BooBo\source\repos\BeamMPconfigGUI\BeamMPconfigGUI\obj\Debug\BeamMPconfigGUI.exe
+C:\Users\BooBo\source\repos\BeamMPconfigGUI\BeamMPconfigGUI\obj\Debug\BeamMPconfigGUI.pdb
+C:\Users\BooBo\source\repos\BeamMPconfigGUI\BeamMPconfigGUI\obj\Debug\BeamMPconfigGUI.BeamMPconfigGUI.resources
